@@ -19,53 +19,17 @@ Contact me at: [info@lucatrivellato.com](mailto:info@lucatrivellato.com)
 ---
 
 ### KNOWN PRODUCTS
+<p>VMware (vSphere)</p>
+<p>Cisco (UCS, Nexus, Meraki)</p>
+<p>Red Hat (RHEL, Ansible)</p>
+<p>Citrix (Virtual Apps and Desktops)</p>
+<p>NetApp (ONTAP)</p>
+<p>VEEAM (Backup and Replications)</p>
+<p>AWS (EC2, S3, IAM)</p>
 
 <br>
-
-<table style="width:100%">
-    <tr style="border-style: hidden">
-        <td>
-            <img src="images/vmware_logo.png" width="100" height="100" style="text-allign: center">
-        </td>
-        <td>
-            <img src="images/redhat_logo.png" width="120" height="120" style="text-allign: center">
-        </td>
-        <td>
-            <img src="images/cisco_logo.png" width="100" height="100" style="text-allign: center">
-        </td>
-        <td>
-            <img src="images/netapp_logo.png" width="110" height="110" style="text-allign: center">
-        </td>
-    </tr>
-    <tr style="border-style: hidden">
-        <td>
-            <img src="images/citrix_logo.png" width="80" height="80" style="text-allign: center">
-        </td>
-        <td>
-            <img src="images/microsoft_logo.png" width="130" height="130" style="text-allign: center">
-        </td>
-        <td>
-            <img src="images/aws_logo.png" width="70" height="70" style="text-allign: center">
-        </td>
-        <td>
-            <img src="images/veeam_logo.png" width="100" height="100" style="text-allign: center">
-        </td>
-    </tr>
-        <tr style="border-style: hidden">
-        <td colspan="2">
-            <img src="images/rubrik_logo.png" width="120" height="120" style="text-allign: center; padding-right=5">
-        </td>
-        <td colspan="2">
-            <img src="images/netwrix_logo.png" width="100" height="100" style="text-allign: center">
-        </td>
-        <td>
-        </td>
-    </tr>
-</table>
-
 <br>
 
----
 
 ### CONTACTS
 
@@ -75,8 +39,7 @@ Contact me at: [info@lucatrivellato.com](mailto:info@lucatrivellato.com)
 [<img src="images/twitter_logo.png" width="50" height="50">](https://twitter.com/luk_twe)
 
 <br>
-
----
+<br>
 
 ### DONATIONS
 
