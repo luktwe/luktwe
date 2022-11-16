@@ -1,4 +1,4 @@
-<divs style="text-align: center;">
+<div style="text-align: center;">
 
 # Luca Trivellato
 
