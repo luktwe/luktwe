@@ -12,13 +12,7 @@ Find more about me: [www.lucatrivellato.com](https://www.lucatrivellato.com)
 
 Contact me at: [info@lucatrivellato.com](mailto:info@lucatrivellato.com)
 
-Here is my [LinkedIn](https://www.linkedin.com/in/luca-trivellato/) and my [twitter](https://twitter.com/luk_twe) profile.
-
-<br>
-
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luktwe&langs_count=5&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Luca Trivellato's GitHub stats](https://github-readme-stats.vercel.app/api?username=luktwe&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Here is my social profile: [LinkedIn](https://www.linkedin.com/in/luca-trivellato/) and [twitter](https://twitter.com/luk_twe).
 
 
 <br>
@@ -29,10 +23,12 @@ Here is my [LinkedIn](https://www.linkedin.com/in/luca-trivellato/) and my [twit
 
 ### DONATIONS
 
-(If you want to buy me a coffee)
+<br>
 
-BTC:
-
-ETH:
-
-XMR:
+<details>
+<summary>Click to expand, if you want to buy me a coffee...</summary>
+  
+  ```
+  BTC: bc1qygg0sctvfxk8558h22pqq8yanhccrjf6dxhtwt
+  ```
+</details>
